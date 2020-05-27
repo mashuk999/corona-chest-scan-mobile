@@ -1,11 +1,6 @@
 # Crack the Covid-19 Crisis Hackathon - Team 6Bits
 
 ![N|Solid](https://i.imgur.com/lALROL8.jpg)
-Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
-
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
 
 # Solution Overview:
 We are creating an app wherein the COVID-19 positive patients can be recommended whether they should go for the final lab testing or not, thus saving a major number of test kits that are used in vain.
