@@ -1,0 +1,24 @@
+{
+  "name": "coronaChestScan",
+  "displayName": "coronaChestScan",
+  "expo": {
+    "name": "coronachestscan",
+    "slug": "coronachestscan",
+    "version": "1.0.0",
+    "privacy": "unlisted",
+    "sdkVersion": "<SDK version of your app. See note below>",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.coronachestscan",
+      "versionCode": 1
+    }
+  }
+  
+}
