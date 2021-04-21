@@ -35,7 +35,7 @@ export const useGetPrediction = () => {
                 body: data
             };
 
-            fetch('IBM URL', config).then((response) => response.json())
+            fetch('https://corona-chest-scan.herokuapp.com', config).then((response) => response.json())
             .then((json) => {
               console.log(json[0].category);
               setData(json[0].category);
